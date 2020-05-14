@@ -1,0 +1,75 @@
+[
+    {
+        "id": "services-hero-contnet",
+        "title": "Responsive Design",
+        "subtitle": "for IT Services",
+        "desc": "Highly Tailored IT Design, Management & Support Services.",
+        "path": "/services",
+        "bg_image": "./images/hero/home-services-hero-bg.jpg"
+    },
+    {
+        "id": "services-about-contnet",
+        "title": "We’ve been triumphing <br/> all these <span>38 years.</span> <br/> Sacrifices are made up <br/> with success.",
+        "subtitle": "Our Company",
+        "desc": "Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers’ database & building up highly confidential firewalls.",
+        "path": "/about-us",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "image1": "./images/about-us/home-processing-video-intro-slider-slide-01-image-02.jpg",
+        "image2": "./images/about-us/home-processing-video-intro-slider-slide-01-image-03.jpg",
+        "image3": "./images/about-us/home-processing-video-intro-slider-slide-01-image-04.jpg",
+        "image4": "./images/about-us/home-processing-video-intro-slider-slide-01-image-05.jpg",
+        "main_image": "./images/about-us/video-01-image-01-570x350.jpg"
+    },
+    {
+        "id": "services-services-contnet",
+        "title": "Services We Deliver <br/> we provide <span>truly prominent IT solutions.</span>",
+        "subtitle": "INDUSTRIES WE SERVE",
+        "path": "/contact-us"
+    },
+    {
+        "id": "services-gradation-content",
+        "title": "Get a Professional installer <span>on<br/> your site</span>",
+        "subtitle": "How We work",
+        "gradations": [
+            {
+                "id": "service-gradiation-1",
+                "title": "Contact Us",
+                "desc": "It's very easy, please use the link below to send us a message, email or phonecall.",
+                "path": "/contact-us"
+            },
+            {
+                "id": "service-gradiation-2",
+                "title": "Recieve a Quote",
+                "desc": "Wow. That was quick. You've now got a detailed cost of your Project.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-3",
+                "title": "Find an Installer",
+                "desc": "So your decided on a project. We now find the perfect installer for your flooring application.",
+                "path": "/about-us"
+            },
+            {
+                "id": "service-gradiation-4",
+                "title": "Get Building!",
+                "desc": "Once finalised. We get started on an average of 3 days.",
+                "path": "/about-us"
+            }
+        ]
+    },
+    {
+        "id": "services-case-contnet",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES"
+    },
+    {
+        "id": "services-pricing-contnet",
+        "title": "1 monthly fee for <span>all IT services.</span>",
+        "subtitle": "PRICING AND PLAN"
+    },
+    {
+        "id": "services-blog-contnet",
+        "title": "Latest news are <span>on top all times</span>",
+        "subtitle": "LATEST NEWS"
+    }
+]

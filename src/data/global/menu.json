@@ -1,0 +1,195 @@
+[
+       {
+        "text": "Company",
+        "link": "/about-us",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "About Us",
+                "link": "/"
+            },
+            {
+                "text": "Contact Us",
+                "link": "/"
+            },
+            {
+                "text": "Leadership",
+                "link": "/"
+            },
+            {
+                "text": "Why Choose Us",
+                "link": "/"
+            },
+            {
+                "text": "Our History",
+                "link": "/"
+            },
+            {
+                "text": "FAQs",
+                "link": "/"
+            },
+            {
+                "text": "Careers",
+                "link": "/"
+            }
+           
+        ]
+    },
+    {
+        "text": "Services",
+        "link": "/",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "text": "Services",
+                "link": "/"
+            },
+            {
+                "text": "Solutions",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "text": "Areas We Serve",
+        "link": "/",
+        "megamenu": [
+            {
+                "title": "Area Group 01",
+                "submenu": [
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    }
+                ]
+            },
+            {
+                "title": "Area Group 02",
+                "submenu": [
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    }
+
+                ]
+            },
+            {
+                "title": "Area Group 03",
+                "submenu": [
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    }
+                ]
+            }, 
+            {
+                "title": "Area Group 04",
+                "submenu": [
+                   {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    },
+                    {
+                        "text": "Area",
+                        "link": "/"
+                    }
+                
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Case Studies",
+        "link": "/"
+    },
+    {
+        "text": "Blog",
+        "link": "/",
+        "isSubmenu": false
+    
+    }
+]
