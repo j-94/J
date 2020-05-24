@@ -55,6 +55,7 @@ module.exports = {
     "MarkdownRemark.frontmatter.author": `AuthorsJson.name`,
   },
   plugins: [
+      
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -194,6 +195,12 @@ module.exports = {
           
         ]
       }
-    }
+    },
+     {
+      resolve: "@horacioh/gatsby-theme-instagram",
+      options: {
+            username: "jmb_floors_ltd"
+      },
+    },
   ]
 }

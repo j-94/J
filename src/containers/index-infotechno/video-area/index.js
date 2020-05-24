@@ -57,7 +57,7 @@ const VideoArea = ({ sectionStyle, titleStyle }) => {
             </SectionWrap>
             <ModalVideo
                 channel='youtube'
-                videoId='L61p2uyiMSo'
+                videoId='gs9Eu6Rdfzw'
                 isOpen={videoOpen}
                 onClose={modalVideoClose}
             />

@@ -15,6 +15,7 @@ import FunFactArea from '../containers/global/funfact-area/section-one'
 import GradationArea from '../containers/index-services/gradation-area'
 import ContactArea from '../containers/global/contact-area/contact-four'
 import ClientsArea from '../containers/global/clients-area'
+import { Grid, SimpleCard } from '@horacioh/gatsby-theme-instagram'
 
 // removed until content writing <TabsArea/> <CTAArea/> <CaseStudyArea/> <TestimonialArea/>  <Footer/>
 const IndexPage = ({location}) => (
@@ -23,6 +24,11 @@ const IndexPage = ({location}) => (
     <main className="site-wrapper-reveal">
       <HeroArea/>
       <GradationArea />
+      
+
+
+
+<Grid card={SimpleCard} />
       <ServicesArea/>      
       <FunFactArea/>
       <ClientsArea />
